@@ -1,26 +1,27 @@
 export default defineAppConfig({
   global: {
-    meetingLink: 'https://cal.com/hugorcd/15min',
-    available: true,
+    meetingLink: '',
+    available: false,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'spuntentertainment',
+    job: 'chaos creator',
+    email: 'admin@spuntentertainment.com',
+    phone: '(904)385-0886',
+    picture: 'https://avatars.githubusercontent.com/u/122352176?v=4',
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    github: 'https://github.com/spuntentertainment',
+    twitter: 'https://twitter.com/T33M_N0_5L33P',
+    linkedin: 'https://www.linkedin.com/in/spuntentertainment',
+    instagram: 'https://www.instagram.com/spuntentertainment',
+    spotify: 'https://open.spotify.com/playlist/77LYhFxY3Tbnm6Go14QAZv?si=nW_loEvbQ2SlLBjszJLPUg&pi=J658FX8KSJOU7',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    title: 'spuntentertainment (we are nor sorry)',
+    description: 'spuntentertainment is not responsible ',
+    url: 'https://spuntentertainment.com',
+    lang: 'en',
   },
   ui: {
     colors: {
